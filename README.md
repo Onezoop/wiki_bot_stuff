@@ -1,7 +1,7 @@
 # A Simple and primitive MediaWiki Bot
-
-###A simple python discord bot for directing users to pages on a predefined MediaWiki server
-###Designed for use with Linux and I cant be bothered to see how I could make it work with windows
+-
+A simple python discord bot for directing users to pages on a predefined MediaWiki server
+Designed for use with Linux and I cant be bothered to see how I could make it work with windows
 --------
 # Usage
 
